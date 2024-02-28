@@ -10,7 +10,9 @@ This is a very basic application to create Todo Lists built using Tkinter, a GUI
 ## Features
 
 *Task Management: Add, mark as done, and delete tasks effortlessly.
+
 *User-friendly Interface: Clean and intuitive design for a seamless user experience.
+
 *Task Statistics: View the overall progress with a dedicated "View Progress" button.
 
 ## Getting Started
